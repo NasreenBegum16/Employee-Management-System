@@ -18,7 +18,7 @@ A full-stack web application for managing employee data. This system allows user
 <a name="overview"></a>
 ## 📌 Overview
 
-This project is a CRUD (Create, Read, Update, Delete) based Employee Management System designed as part of my learning journey into full-stack web development. The application features a React front-end that communicates with a Spring Boot back-end and a MySQL database using RESTful APIs.
+This project is a CRUD (Create, Read, Update, Delete) based Employee Management System designed as part of my learning journey into full-stack web development. The application features a React front-end that communicates with a MySQL database.
 
 ---
 
